@@ -1,0 +1,7 @@
+.Slide {
+	display: flex;
+	flex-direction: column;
+	cursor: pointer;
+	text-transform: uppercase;
+	outline: none;
+}

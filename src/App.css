@@ -1,0 +1,8 @@
+.example-1, .example-2 {
+	max-height: 210px;
+	width:auto;
+}
+
+.example-1 {
+	margin-bottom: 50px
+}
