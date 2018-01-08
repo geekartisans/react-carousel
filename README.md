@@ -1,5 +1,7 @@
 # react-carousel
-Simple React.js carousel with infinite loop, without dependencies
+Simple React.js carousel with infinite loop, without dependencies.
+
+Just clone this repo, open in the terminal and run ``` yarn && yarn start```
 
 ```
 <Carousel
