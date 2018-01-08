@@ -4,7 +4,7 @@
   "description": "Simple React.js carousel, without dependencies.",
   "main": "webpack.config.js",
   "directories": {
-    "example": "examples"
+    "example": "src/App.js"
   },
   "scripts": {
     "start": "NODE_ENV=development webpack -w & NODE_ENV=development node server.js",
